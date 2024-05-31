@@ -1,15 +1,11 @@
-.cursor{
 
-    cursor: url("./images/pokemon/red pokeball.png");
-
-}
 
 * {
 
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
+ cursor: url("./images/pokemon/red pokeball.png");
 }
 
 body {
