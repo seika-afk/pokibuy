@@ -1,3 +1,9 @@
+.cursor{
+
+    cursor: url("./images/pokemon/red pokeball.png");
+
+}
+
 * {
 
     margin: 0;
